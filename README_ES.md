@@ -6,6 +6,8 @@
 
 ## Descripcion
 
+🔗 Página publicada: https://somaxb.github.io/scop/
+
 Scop es un pequeno renderer OpenGL escrito en C. Interpreta archivos Wavefront
 `.obj` sin usar una libreria de carga de objetos, sube la malla a OpenGL y la
 renderiza en perspectiva.
