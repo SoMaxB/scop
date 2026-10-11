@@ -1,0 +1,14 @@
+# Build artifacts
+scop
+*.o
+
+# Compiled test binaries
+tests/mat4_test
+tests/obj_parser_test
+
+# IDE and OS files
+.DS_Store
+.vscode/
+.idea/
+
+# Local tooling and temporary files
