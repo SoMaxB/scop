@@ -6,6 +6,9 @@
 
 ## Description
 
+🔗 Live site: https://somaxb.github.io/scop/
+
+
 Scop is a compact C/OpenGL renderer that parses Wavefront `.obj` files,
 triangulates polygon faces, and displays the resulting meshes in perspective.
 It is a focused study of the path from raw geometry to pixels: parsing, custom
