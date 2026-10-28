@@ -209,6 +209,3 @@ El triplanar mapping usa tres muestras de textura por fragmento y se documenta
 como una tecnica practica para reducir el stretching, no como sustituto de un
 desplegado UV creado por un artista.
 
-La implementacion obligatoria sigue siendo la prioridad. Los bonus deben
-demostrarse durante la defensa y no deben ocultar ningun fallo de la parte
-obligatoria.

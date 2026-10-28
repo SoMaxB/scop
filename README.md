@@ -203,6 +203,3 @@ Triplanar mapping uses three texture samples per fragment and is deliberately
 documented as a practical anti-stretching technique, not as a replacement for
 artist-authored UV unwrapping.
 
-The mandatory implementation remains the priority. The bonus implementation
-must still be demonstrated during the defense and must not be used to hide a
-failure in any mandatory row.
